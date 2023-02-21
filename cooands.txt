@@ -3,3 +3,9 @@ git init // initializing git
 git add -A
 
 git commit -m
+
+git push
+
+git pull
+
+git status
